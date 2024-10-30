@@ -1,5 +1,5 @@
 - 👋 Hi, I’m　Kaho　Suzuki, a grad student at the University of Tokyo  
--  Now I am in KTH royal institute of Technology(visitting student)
+- 🐻‍❄️ Now I am in KTH royal institute of Technology(visitting student)
 - 👀 I’m interested in computational social science
 - 🌱 I’m currently learning about LLM(espetially BERT)
 - 💞️ I’m looking to collaborate on data an analitics
